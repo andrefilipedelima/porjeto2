@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dontpad</string>
+    <string name="hello_world">このアプリは、テキストと画像を共有するために使用します</string>
+    <string name="hint_tag">タグを入力してください</string>
+    <string name="desc_img_buttom">画像共有画面に移動するボタン</string>
+    <string name="desc_home_buttom">家に帰るボタン</string>
+    <string name="desc_text_buttom">テキスト共有画面に移動するボタン</string>
+    <string name="desc_busca_tag">タグ付きで入力するフィールド</string>
+    <string name="desc_connect_button">サーバーに接続するためのボタン</string>
+    <string name="desc_text_explication">このアプリは、テキストと画像を共有するために使用します</string>
+    <string name="desc_grid_images">共有された画像のグループ</string>
+    <string name="desc_add_image_buttom">画像を共有するボタン</string>
+    <string name="desc_img_displayed">選択した画像</string>
+    <string name="desc_text_EditView_shared">テキストを共有するフィールド</string>
+    <string name="digit_tag">通知タグ</string>
+    <string name="waiting_for_connection">接続待ち</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dontpad</string>
+    <string name="hello_world">Diese App dient zum Teilen von Texten und Bildern</string>
+    <string name="hint_tag">Geben Sie mit Ihrem Tag</string>
+    <string name="desc_img_buttom">Schaltfläche zum Aufrufen des Bildschirms für die gemeinsame Nutzung von Bildern</string>
+    <string name="desc_home_buttom">Taste, um nach Hause zu gehen</string>
+    <string name="desc_text_buttom">Schaltfläche zum Aufrufen des Textfreigabebildschirms</string>
+    <string name="desc_busca_tag">Mit Tag einzugebendes Feld</string>
+    <string name="desc_connect_button">Schaltfläche zum Verbinden mit dem Server</string>
+    <string name="desc_text_explication">Diese App dient zum Teilen von Texten und Bildern</string>
+    <string name="desc_grid_images">Gruppe von Bildern geteilt</string>
+    <string name="desc_add_image_buttom">Schaltfläche zum Teilen von Bildern</string>
+    <string name="desc_img_displayed">Ausgewähltes Bild</string>
+    <string name="desc_text_EditView_shared">Feld zum Teilen von Text</string>
+    <string name="digit_tag">Tag informieren</string>
+    <string name="waiting_for_connection">Warten auf Verbindung</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galerie</string>
+</resources>

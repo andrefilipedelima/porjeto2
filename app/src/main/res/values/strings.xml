@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dontpad</string>
+    <string name="hello_world">This app is to use to share texts and images</string>
+    <string name="hint_tag">Enter with your tag</string>
+    <string name="desc_img_buttom">Button to go image share screen</string>
+    <string name="desc_home_buttom">Button to go home</string>
+    <string name="desc_text_buttom">Button to go text share screen</string>
+    <string name="desc_busca_tag">Field to enter with tag</string>
+    <string name="desc_connect_button">Button to connect with server</string>
+    <string name="desc_text_explication">This app is to use to share texts and images</string>
+    <string name="desc_grid_images">Group of images shared</string>
+    <string name="desc_add_image_buttom">Button to share images</string>
+    <string name="desc_img_displayed">Selected image</string>
+    <string name="desc_text_EditView_shared">Field to share text</string>
+    <string name="digit_tag">Inform Tag</string>
+    <string name="waiting_for_connection">Waiting for connection</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+</resources>

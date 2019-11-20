@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dontpad</string>
+    <string name="hello_world">Esta aplicación se utiliza para compartir textos e imágenes.</string>
+    <string name="hint_tag">Entra con tu etiqueta</string>
+    <string name="desc_img_buttom">Botón para ir a la pantalla de compartir imagen</string>
+    <string name="desc_home_buttom">Botón para ir a casa</string>
+    <string name="desc_text_buttom">Botón para ir a la pantalla de compartir texto</string>
+    <string name="desc_busca_tag">Campo para ingresar con etiqueta</string>
+    <string name="desc_connect_button">Botón para conectar con el servidor</string>
+    <string name="desc_text_explication">Esta aplicación se utiliza para compartir textos e imágenes.</string>
+    <string name="desc_grid_images">Grupo de imágenes compartidas</string>
+    <string name="desc_add_image_buttom">Botón para compartir imágenes</string>
+    <string name="desc_img_displayed">Imagen seleccionada</string>
+    <string name="desc_text_EditView_shared">Campo para compartir texto</string>
+    <string name="digit_tag">Informar etiqueta</string>
+    <string name="waiting_for_connection">Esperando la conexión</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galería</string>
+</resources>

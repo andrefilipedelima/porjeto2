@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:rowCount="1"
+        android:columnCount="2"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp">
+
+        <EditText
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_height="match_parent"
+            android:gravity="fill_vertical"
+            android:layout_columnWeight="4"
+            android:src="@drawable/img_text"
+            android:id="@+id/tagEditText"
+            android:scaleType="fitCenter"
+            android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_-"
+            android:hint="@string/hint_tag"
+            android:contentDescription="@string/desc_busca_tag"
+            />
+
+
+        <androidx.appcompat.widget.AppCompatImageButton
+            android:layout_row="0"
+            android:layout_column="1"
+            android:layout_height="match_parent"
+            android:gravity="fill_vertical"
+            android:layout_columnWeight="1"
+            android:background="@android:color/transparent"
+            android:src="@drawable/img_play"
+            android:id="@+id/tagButton"
+            android:scaleType="fitCenter"
+            android:contentDescription="@string/desc_connect_button"
+            />
+
+
+    </GridLayout>
+
+
+</LinearLayout>
